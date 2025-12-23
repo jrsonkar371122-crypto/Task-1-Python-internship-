@@ -1,39 +1,77 @@
-Assignment 1
-<br>
-1.Used input() function to take input 
-<br>
-2.Used int variable for age
+Assignments:
+This repository contains three basic Python assignments focused on user input handling, data structures, and fundamental operations like counting, summation, and averaging.
 
-Assignment 2
-<br>
-1.Took input converted it to lower
-<br>
-2.Created empty dictionary to store word counts
-<br>
-3.use for loop
-<br>
-4.if character is present in for loop
-<br> 
-5.increase its value one by one
-<br>
-6.else is runned when character is not found in the dictionary and stores the character with count 1.
-<br>
-7.Display the final count.
+Assignment 1: Age Input Program
+Description:
+This program takes the user’s age as input and stores it as an integer.
 
-Assignment 3
-<br>
-1.Created an empty list to store the numbers.
-<br>
-2.Run the loop 5 times to take 5 inputs.
-<br>
-3.Took a number from the user and append into list
-<br>
-4.Initialized total to zero
-<br>
-5.Used for loop for iteration
-<br>
-6.Add each number to the total sum.
-<br>
-7.Calculate the  average
-<br>
-8.Used max function to get maximum no.
+Key Concepts Used:
+
+input() function
+
+Type conversion using int
+
+Steps:
+
+Take input from the user using input().
+
+Convert the input into an integer to represent age.
+
+Assignment 2: Character Count Program
+Description:
+This program counts the frequency of each character in a given input string.
+
+Key Concepts Used:
+
+String manipulation
+
+Dictionary
+
+Looping and conditional statements
+
+Steps:
+
+Take input from the user and convert it to lowercase.
+
+Create an empty dictionary to store character counts.
+
+Iterate through each character using a for loop.
+
+If the character exists in the dictionary, increment its count.
+
+If not, add the character with a count of 1.
+
+Display the final dictionary containing character frequencies.
+
+Assignment 3: List Operations (Sum, Average, Maximum)
+Description:
+This program accepts five numbers from the user and performs basic list operations.
+
+Key Concepts Used:
+
+Lists
+
+Loops
+
+Arithmetic operations
+
+Built-in functions
+
+Steps:
+
+Create an empty list to store numbers.
+
+Run a loop five times to take user input.
+
+Append each number to the list.
+
+Initialize a variable total to zero.
+
+Use a loop to calculate the sum of all numbers.
+
+Compute the average of the numbers.
+
+Find the maximum number using the max() function.
+
+
+
